@@ -36,4 +36,4 @@ Given that the onboard GPS module is not RTK-enabled and has a positional error 
 
 🔹 Visual Verification at Turns
 -------------
-As the rover approaches a predefined coordinate range with a turn, it activates the YOLOv8-based road segmentation model to visually verify road geometry and make precise turn decisions. (See [Driving Mechanism](DrivingMechanism/iindex.md "Heading link") section for full integration details.)
+As the rover approaches a predefined coordinate range with a turn, it activates the YOLOv8-based road segmentation model to visually verify road geometry and make precise turn decisions. (See [Driving Mechanism]([DrivingMechanism/iindex.md](https://github.com/sagar-anmol/rover/blob/main/DrivingMechanism/iindex.md) "Heading link") section for full integration details.)
