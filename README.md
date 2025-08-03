@@ -9,6 +9,7 @@ This project involves the development of a compact, all-terrain autonomous rover
 - [Components](https://www.u-blox.com/en/product/neo-m8-series)
 
 - [Navigation system](https://www.tensorflow.org/lite)
+- [Model](https://www.tensorflow.org/lite)
 - [Driving mechanism](https://www.tensorflow.org/lite)
 - [Rover mechanical model](https://www.tensorflow.org/lite)
 - [Achievement](https://www.tensorflow.org/lite)
