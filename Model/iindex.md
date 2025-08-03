@@ -10,7 +10,7 @@ The model is a semantic segmentation network trained to identify and delineate r
 ![](https://github.com/sagar-anmol/rover/blob/main/Model/912download.png)
 >mask from our model
 
-![](Model/val_batch2_pred.jpg)
+![](https://github.com/sagar-anmol/rover/blob/main/Model/val_batch2_pred.jpg)
 >model early stage outputs 
 ## System Specs
 
