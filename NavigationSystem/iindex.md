@@ -20,7 +20,7 @@ The system exposes a local server endpoint where a user can input the desired de
 🔹 Third-Party Routing Integration
 -------------
 ![](https://i.sstatic.net/uYedd.png)
->the img is not the write depiction of what we are doing
+>the img is not the right depiction of what we are doing
 
 The paired coordinates are transmitted to a third-party navigation provider (currently testing with Google Maps and its competitors). The service returns a sequenced list of intermediate waypoints (coordinates) representing the recommended path.
 
