@@ -32,6 +32,8 @@ Post-receipt, the returned coordinate sequence undergoes lightweight preprocessi
 -------------
 ![](https://img.gta5-mods.com/q95/images/race-timer/4b1776-lapTimer3.jpg)
 >checkpoints idea taken from games logic
+
+
 Given that the onboard GPS module is not RTK-enabled and has a positional error margin of a few meters, the system employs geofenced coordinate ranges instead of exact positions. These act as checkpoints for route validation and deviation handling.
 
 🔹 Visual Verification at Turns
